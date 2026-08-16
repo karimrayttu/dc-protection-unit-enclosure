@@ -1,0 +1,9 @@
+# Slicer output
+*.gcode
+*.3mf
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
